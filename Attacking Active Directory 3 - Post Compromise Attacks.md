@@ -159,7 +159,7 @@ We use **GetUserSPNs** tool from *impacket*
 ##### Usage:
 	GetUserSPNs.py domain_name.local/user_name@password -dc-ip <domain_controller_ip> -request
 	
-![[GetUserSPNs.png]]
+![[Images/GetUserSPNs.png]]
 
 # GPP (MS14-025) Group Policy Preferences
 
